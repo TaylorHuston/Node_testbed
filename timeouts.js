@@ -1,6 +1,6 @@
 //Basic snippet to demonstrate some basic timeouts in Node
 function simpleTimeout(consoleTimer) {
-    conole.timeEnd(consoleTimer);
+    console.timeEnd(consoleTimer);
 }
 
 console.time("twoSecond");
